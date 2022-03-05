@@ -1,4 +1,5 @@
-using Chapter.WebApi.Contexts;
+ using Chapter.WebApi.Contexts;
+using Chapter.WebApi.Interfaces;
 using Chapter.WebApi.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -68,7 +69,7 @@ namespace Chapter.WebApi
 
             services.AddTransient<LivroRepository, LivroRepository>();
 
-            services.AddTransient<UsuarioRepository,UsuarioRepository>();
+            services.AddTransient<IUsuarioRepository,UsuarioRepository>();
 
         }
 

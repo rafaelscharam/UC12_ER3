@@ -7517,11 +7517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
+      "projectUniqueName": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
       "projectName": "Chapter.WebApi",
-      "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
+      "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
       "packagesPath": "C:\\Users\\Xerno\\.nuget\\packages\\",
-      "outputPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\obj\\",
+      "outputPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Xerno\\AppData\\Roaming\\NuGet\\NuGet.Config",

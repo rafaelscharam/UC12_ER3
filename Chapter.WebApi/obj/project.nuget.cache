@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pl/7Ay4T4wtSVlMVoxIetVhryBKrb0gbTbiVWL/R5r2JHhbv2eJ9HA+Qjlsqqbuj2FLRZrR3lf/pA6G8jJIq6Q==",
+  "dgSpecHash": "aiJTMCVkNHt7MtaOhHRufHorwKeuB2rqcc+dhBCJO6KxbjzMj6JoG7hkNeGlSXlFwqf+7z64vWptgq3+dfH/Qg==",
   "success": true,
-  "projectFilePath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
+  "projectFilePath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xerno\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Xerno\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.14\\microsoft.aspnetcore.authentication.jwtbearer.5.0.14.nupkg.sha512",

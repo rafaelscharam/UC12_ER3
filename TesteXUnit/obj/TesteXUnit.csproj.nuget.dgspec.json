@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj": {}
+    "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj": {}
   },
   "projects": {
-    "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj": {
+    "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
+        "projectUniqueName": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
         "projectName": "Chapter.WebApi",
-        "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
+        "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj",
         "packagesPath": "C:\\Users\\Xerno\\.nuget\\packages\\",
-        "outputPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\obj\\",
+        "outputPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Xerno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,14 +83,14 @@
         }
       }
     },
-    "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj": {
+    "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj",
+        "projectUniqueName": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj",
         "projectName": "TesteXUnit",
-        "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj",
+        "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj",
         "packagesPath": "C:\\Users\\Xerno\\.nuget\\packages\\",
-        "outputPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\TesteXUnit\\obj\\",
+        "outputPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\TesteXUnit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Xerno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -107,8 +107,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj": {
-                "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj"
+              "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj": {
+                "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\Chapter.WebApi\\Chapter.WebApi.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hps8KDsVDUSbSTUwRSNBut9pM5YIAOONJ2moJn8ZjlGm1aU6SySMC90Xv9wAHu2Yn8I1jqpsIW2p/DkXMJeniw==",
+  "dgSpecHash": "4/yK4Ql3ncJSf4TvLXMq4REQVn9wDX2F2I6T6CCxy45uY+VsTEF1q6+WRAULoZ9Wxv19QbLcQPai1uOtyXEFiA==",
   "success": true,
-  "projectFilePath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj",
+  "projectFilePath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER3\\Chapter.WebApi\\TesteXUnit\\TesteXUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xerno\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Xerno\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

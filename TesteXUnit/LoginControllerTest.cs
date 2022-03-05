@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Moq;
 using System;
 using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -41,6 +42,8 @@ namespace TesteXUnit
         public void LoginController_Retornar_Usuario()
         {
             //Arrange
+            string issuerValidacao = "Chapter.WebApi";
+
             Usuario usuarioFalso = new Usuario();
             usuarioFalso.Email = "email123@gmail.com";
             usuarioFalso.Senha = "123456";
@@ -55,10 +58,16 @@ namespace TesteXUnit
             dadosUsuario.senha = "123456";
 
             //Act
-            var resultado = controller.Login(dadosUsuario);
+            OkObjectResult resultado = (OkObjectResult)controller.Login(dadosUsuario);
+
+            var token = resultado.Value.ToString().Split(' ')[3];
+
+            var jstHandLer = new JwtSecurityTokenHandler();
+            var jwtToken = jstHandLer.ReadJwtToken(token);
+
 
             //Assert
-            Assert.IsType<OkObjectResult>(resultado);
+            Assert.Equal(issuerValidacao, jwtToken.Issuer);
         }
 
     }
