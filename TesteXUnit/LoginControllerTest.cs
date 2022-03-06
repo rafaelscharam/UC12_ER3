@@ -68,8 +68,8 @@ namespace TesteXUnit
 
             //Assert
             Assert.Equal(issuerValidacao, jwtToken.Issuer);
-            Assert.Equal(dadosUsuario.email, usuarioFalso.Email);
-            Assert.Equal(dadosUsuario.senha, usuarioFalso.Senha);
+            Assert.Equal(usuarioFalso.Email, dadosUsuario.email);
+            Assert.Equal(usuarioFalso.Senha, dadosUsuario.senha);
         }
 
     }
